@@ -4,4 +4,4 @@ Interactive R program for calculating LDND, LDN, dates, and homelands, and for m
 2. Within R, change the working directory to the one where you put the files.
 3. In the R console, write source("ASJP.R")
 4. Now type ASJP() and press return.
-These instructions, with the inclusion of a bit more detail are also in INSTRUCTIONS.txt.
+These instructions, with the inclusion of a bit more detail, are also in INSTRUCTIONS.txt.
